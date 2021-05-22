@@ -20,5 +20,5 @@ class LoginViewController: UIViewController{
     
     // GitFlow_Tutorial - release at release branch
 
-
+    // GitFlow_Tutorial - release completed
 }
